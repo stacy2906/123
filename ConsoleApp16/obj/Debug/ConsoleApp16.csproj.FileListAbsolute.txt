@@ -1,0 +1,6 @@
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CoreCompileInputs.cache
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
